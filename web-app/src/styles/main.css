@@ -1,0 +1,70 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+img {
+	display: block;
+}
+
+/* pembungkus */
+header.header {
+	background-color: #d9d9d9;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 2rem 2rem;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+	width: 100%;
+}
+
+/* hamburger */
+header.header a.header__hamburger {
+	display: block;
+	font-size: 1.5rem;
+	cursor: pointer;
+	color: #333;
+	align-content: center;
+
+	padding-inline: 10px;
+	padding-block: 10px;
+}
+
+/* pembungkus container nav */
+nav.nav {
+	display: flex;
+	flex-direction: row;
+}
+/* pembungkus container list */
+nav.nav ul.nav__ul {
+	display: flex;
+	flex-direction: row;
+	gap: 20px 20px;
+}
+/* list */
+nav.nav ul.nav__ul li.nav__li {
+	list-style-type: none;
+	font-weight: 900;
+}
+nav.nav ul.nav__ul li.nav__li a {
+	text-decoration: none;
+	color: white;
+
+	align-content: center;
+}
+
+nav.nav ul.nav__ul li.nav__li a:hover {
+	text-decoration: underline;
+	color: #000;
+}
+
+main {
+	height: 100vh;
+}
+
+footer {
+	background-color: #d9d9d9;
+	text-align: center;
+	padding: 1rem;
+}
