@@ -1,3 +1,306 @@
-{
-	"key": "value"
-}
+[
+    {
+        "Provinsi": "Nanggroe Aceh Darussalam",
+        "Gambar": "",
+		"Ibu Kota": "Banda Aceh",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 1"
+    },
+
+    {
+        "Provinsi": "Sumatera Utara ",
+        "Gambar": "",
+		"Ibu Kota": "Medan",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 2"
+    },
+
+    {
+        "Provinsi": "Sumatera Selatan ",
+        "Gambar": "",
+		"Ibu Kota": "Palembang",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Sumatera Barat ",
+        "Gambar": "",
+		"Ibu Kota": "Padang",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 1"
+    },
+    
+    {
+        "Provinsi": "Bengkulu ",
+        "Gambar": "",
+		"Ibu Kota": "Bengkulu",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 2"
+    },
+
+    {
+        "Provinsi": "Riau ",
+        "Gambar": "",
+		"Ibu Kota": "Pekanbaru",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Kepulauan Riau ",
+        "Gambar": "",
+		"Ibu Kota": "Tanjung Pinang",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 1"
+    },
+    
+    {
+        "Provinsi": "Jambi ",
+        "Gambar": "",
+		"Ibu Kota": "Jambi",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 2"
+    },
+
+    {
+        "Provinsi": "Lampung ",
+        "Gambar": "",
+		"Ibu Kota": "Bandar Lampung",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Bangka Belitung ",
+        "Gambar": "",
+		"Ibu Kota": "Pangkal Pinang",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 1"
+    },
+    
+    {
+        "Provinsi": "Kalimantan Barat ",
+        "Gambar": "",
+		"Ibu Kota": "Pontianak",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 2"
+    },
+
+    {
+        "Provinsi": "Kalimantan Timur ",
+        "Gambar": "",
+		"Ibu Kota": "Samarinda",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Kalimantan Selatan ",
+        "Gambar": "",
+		"Ibu Kota": "Banjarbaru",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Kalimantan Tengah ",
+        "Gambar": "",
+		"Ibu Kota": "Palangkaraya",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Kalimantan Utara ",
+        "Gambar": "",
+		"Ibu Kota": "Tanjung Selor",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Banten ",
+        "Gambar": "",
+		"Ibu Kota": "Serang",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "DKI Jakarta ",
+        "gambar": "",
+		"Ibu Kota": "Jakarta",
+		"Pakaian Adat": "",
+        "deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Jawa Barat ",
+        "Gambar": "",
+		"Ibu Kota": "Bandung",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Jawa Tengah ",
+        "Gambar": "",
+		"Ibu Kota": "Semarang",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Daerah Istimewa Yogyakarta ",
+        "Gambar": "",
+		"Ibu Kota": "Yogyakarta",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Jawa Timur ",
+        "Gambar": "",
+		"Ibu Kota": "Surabaya",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Bali ",
+        "Gambar": "",
+		"Ibu Kota": "Denpasar",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Nusa Tenggara Timur ",
+        "Gambar": "",
+		"Ibu Kota": "Kupang",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Nusa Tenggara Barat ",
+        "Gambar": "",
+		"Ibu Kota": "Mataram",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Gorontalo ",
+        "Gambar": "",
+		"Ibu Kota": "Gorontalo",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Sulawesi Barat ",
+        "Gambar": "",
+		"Ibu Kota": "Mamuju",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Sulawesi Tengah ",
+        "Gambar": "",
+		"Ibu Kota": "Palu",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Sulawesi Utara ",
+        "Gambar": "",
+		"Ibu Kota": "Manado",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Sulawesi Tenggara ",
+        "Gambar": "",
+		"Ibu Kota": "Kendari",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Sulawesi Selatan ",
+        "Gambar": "",
+		"Ibu Kota": "Makassar",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Maluku Utara ",
+        "Gambar": "",
+		"Ibu Kota": "Sofifi",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Maluku ",
+        "Gambar": "",
+		"Ibu Kota": "Ambon",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Papua Barat ",
+        "Gambar": "",
+		"Ibu Kota": "Manokwari",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Papua ",
+        "Gambar": "",
+		"Ibu Kota": "Jayapura",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Papua Tengah ",
+        "Gambar": "",
+		"Ibu Kota": "Nabire",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Papua Pegunungan ",
+        "Gambar": "",
+		"Ibu Kota": "Jayawijaya",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Papua Selatan ",
+        "Gambar": "",
+		"Ibu Kota": "Merauke",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    },
+
+    {
+        "Provinsi": "Papua Barat Daya ",
+        "Gambar": "",
+		"Ibu Kota": "Sorong",
+		"Pakaian Adat": "",
+        "Deskripsi": "Deskripsi untuk Wilayah 38"
+    }
+]
+
