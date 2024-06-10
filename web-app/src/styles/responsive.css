@@ -13,7 +13,7 @@
 
 		z-index: -1;
 		left: 0px;
-		top: 0px;
+		top: -35px;
 	}
 
 	/* pembungkus item nav */
@@ -36,6 +36,44 @@
 		border-bottom: 3px solid #e0e0e0;
 
 		color: #e0e0e0;
+	}
+
+	/* memperbaiki styling responsive mobile tanggal 11 juni 2024  */
+	.container {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.image-section,
+	.text-section {
+		width: 100%;
+		margin-bottom: 1rem;
+	}
+
+	.image-placeholder {
+		height: 200px; /* Adjust image height for smaller screens */
+	}
+
+	header.header {
+		padding: 15px;
+	}
+
+	header.header .header__title {
+		font-size: 1.5rem;
+	}
+	.image-section {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		z-index: -2;
+	}
+	.text-section {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: flex-start;
+		z-index: -2;
 	}
 }
 @media screen and (min-width: 455px) {

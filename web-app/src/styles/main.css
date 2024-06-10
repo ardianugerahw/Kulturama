@@ -15,7 +15,7 @@ html {
 }
 
 body {
-	font-family: "Merriweather", serif;
+	font-family: 'Merriweather', serif;
 	background-color: #ffffff;
 	line-height: 1.5;
 }
@@ -115,7 +115,7 @@ header.header .header__title {
 	border-radius: 5px;
 	background-color: #013a4c;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  }
+}
 
 /* hamburger */
 header.header a.header__hamburger {
@@ -161,7 +161,7 @@ nav.nav ul.nav__ul li.nav__li a:hover {
 	background-color: #013a4c;
 	color: #fff;
 	transform: translateX(5px);
-  }
+}
 
 main {
 	height: 100vh;
