@@ -1,307 +1,306 @@
 {
-	"kulturamas": [
-		{
-			"Provinsi": "Nanggroe Aceh Darussalam",
-			"Gambar": "",
-			"IbuKota": "Banda Aceh",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 1"
-		},
+    "kulturamas": [{
+            "Provinsi": "Nanggroe Aceh Darussalam",
+            "Gambar": "",
+            "IbuKota": "Banda Aceh",
+            "PakaianAdat": "Ulee Balang",
+            "Deskripsi": "Terletak di ujung barat laut Pulau Sumatera, Nanggroe Aceh Darussalam memiliki budaya yang kaya dan unik. Ibu kotanya adalah Banda Aceh. Pakaian adat tradisional yang sering dipakai adalah Ulee Balang. Pakaian ini biasanya dipakai dalam acara adat, seperti pernikahan atau upacara keagamaan."
+        },
 
-		{
-			"Provinsi": "Sumatera Utara ",
-			"Gambar": "",
-			"IbuKota": "Medan",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 2"
-		},
+        {
+            "Provinsi": "Sumatera Utara ",
+            "Gambar": "",
+            "IbuKota": "Medan",
+            "PakaianAdat": "Ulos",
+            "Deskripsi": "Terletak di bagian utara Pulau Sumatera, Sumatera Utara memiliki keanekaragaman budaya yang kaya. Ibu kotanya adalah Medan, pusat ekonomi dan budaya di wilayah ini. Pakaian adat tradisional yang dikenal adalah Ulos, sebuah kain tradisional Batak yang sering digunakan dalam berbagai acara adat."
+        },
 
-		{
-			"Provinsi": "Sumatera Selatan ",
-			"Gambar": "",
-			"IbuKota": "Palembang",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Sumatera Selatan ",
+            "Gambar": "",
+            "IbuKota": "Palembang",
+            "PakaianAdat": "Aesan Gede",
+            "Deskripsi": "Berada di bagian selatan Pulau Sumatera, Sumatera Selatan terkenal dengan budaya dan tradisinya yang khas. Ibu kotanya adalah Palembang, yang juga merupakan pusat kebudayaan Melayu di wilayah ini. Pakaian adat tradisional yang sering dipakai adalah Aesan Gede, yang merupakan busana adat Melayu Palembang yang anggun dan megah."
+        },
 
-		{
-			"Provinsi": "Sumatera Barat ",
-			"Gambar": "",
-			"IbuKota": "Padang",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 1"
-		},
+        {
+            "Provinsi": "Sumatera Barat ",
+            "Gambar": "",
+            "IbuKota": "Padang",
+            "PakaianAdat": "Bundo Kanduang",
+            "Deskripsi": "Terletak di bagian barat Pulau Sumatera, Sumatera Barat dikenal dengan budaya Minangkabau yang unik dan kaya. Ibu kotanya adalah Padang. Pakaian adat tradisional yang terkenal adalah Bundo Kanduang, yang merupakan pakaian adat perempuan Minangkabau yang elegan dan berwarna cerah."
+        },
 
-		{
-			"Provinsi": "Bengkulu ",
-			"Gambar": "",
-			"IbuKota": "Bengkulu",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 2"
-		},
+        {
+            "Provinsi": "Bengkulu ",
+            "Gambar": "",
+            "IbuKota": "Bengkulu",
+            "PakaianAdat": "Baju Betabur dan Rejang Lebong",
+            "Deskripsi": "Terletak di sebelah barat daya Pulau Sumatera, Bengkulu memiliki keindahan alam dan kekayaan budaya yang menarik. Ibu kotanya adalah Bengkulu. Pakaian adat tradisional yang sering dipakai adalah Baju Betabur dan Rejang Lebong, yang merupakan pakaian adat khas suku Rejang yang elegan dan indah."
+        },
 
-		{
-			"Provinsi": "Riau ",
-			"Gambar": "",
-			"IbuKota": "Pekanbaru",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Riau ",
+            "Gambar": "",
+            "IbuKota": "Pekanbaru",
+            "PakaianAdat": "Teluk Belanga dan Kebaya Labuh",
+            "Deskripsi": "Berada di bagian timur Pulau Sumatera, Riau merupakan wilayah yang kaya akan budaya Melayu dan sejarah perdagangan. Ibu kotanya adalah Pekanbaru. Pakaian adat tradisional yang biasa dipakai adalah Teluk Belanga dan Kebaya Labuh, yang merupakan busana adat Melayu Riau yang anggun dan berwarna-warni."
+        },
 
-		{
-			"Provinsi": "Kepulauan Riau ",
-			"Gambar": "",
-			"IbuKota": "Tanjung Pinang",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 1"
-		},
+        {
+            "Provinsi": "Kepulauan Riau ",
+            "Gambar": "",
+            "IbuKota": "Tanjung Pinang",
+            "PakaianAdat": "Teluk Belanga dan Kebaya Labuh",
+            "Deskripsi": "Terletak di sebelah timur Provinsi Riau, Kepulauan Riau terdiri dari berbagai pulau yang indah dan beragam budaya. Ibu kotanya adalah Tanjung Pinang. Pakaian adat tradisional yang sering dipakai adalah Teluk Belanga dan Kebaya Labuh, mirip dengan busana adat di Riau."
+        },
 
-		{
-			"Provinsi": "Jambi ",
-			"Gambar": "",
-			"IbuKota": "Jambi",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 2"
-		},
+        {
+            "Provinsi": "Jambi ",
+            "Gambar": "",
+            "IbuKota": "Jambi",
+            "PakaianAdat": "Baju Kurung Tanggung",
+            "Deskripsi": "Berada di bagian tengah Pulau Sumatera, Jambi memiliki keindahan alam dan kekayaan budaya yang menarik. Ibu kotanya adalah Jambi. Pakaian adat tradisional yang biasa dipakai adalah Baju Kurung Tanggung, yang merupakan busana adat Melayu Jambi yang elegan dan sederhana."
+        },
 
-		{
-			"Provinsi": "Lampung ",
-			"Gambar": "",
-			"IbuKota": "Bandar Lampung",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Lampung ",
+            "Gambar": "",
+            "IbuKota": "Bandar Lampung",
+            "PakaianAdat": "Pepadun",
+            "Deskripsi": "Terletak di ujung selatan Pulau Sumatera, Lampung memiliki kekayaan budaya dan tradisi yang unik. Ibu kotanya adalah Bandar Lampung. Pakaian adat tradisional yang sering dipakai adalah Pepadun, yang merupakan pakaian adat Lampung yang berwarna-warni dan indah."
+        },
 
-		{
-			"Provinsi": "Bangka Belitung ",
-			"Gambar": "",
-			"IbuKota": "Pangkal Pinang",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 1"
-		},
+        {
+            "Provinsi": "Bangka Belitung ",
+            "Gambar": "",
+            "IbuKota": "Pangkal Pinang",
+            "PakaianAdat": "Baju Seting",
+            "Deskripsi": "Terletak di sebelah timur Sumatera, Bangka Belitung terkenal dengan keindahan pantainya dan kekayaan alamnya. Ibu kotanya adalah Pangkal Pinang. Pakaian adat tradisional yang sering dipakai adalah Baju Seting, yang merupakan pakaian adat masyarakat Bangka Belitung yang anggun dan berwarna cerah."
+        },
 
-		{
-			"Provinsi": "Kalimantan Barat ",
-			"Gambar": "",
-			"IbuKota": "Pontianak",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 2"
-		},
+        {
+            "Provinsi": "Kalimantan Barat ",
+            "Gambar": "",
+            "IbuKota": "Pontianak",
+            "PakaianAdat": "King Baba dan King Bibinge",
+            "Deskripsi": "Terletak di Pulau Kalimantan bagian barat, Kalimantan Barat memiliki kekayaan alam dan budaya yang menarik. Ibu kotanya adalah Pontianak. Pakaian adat tradisional yang sering dipakai adalah King Baba dan King Bibinge, yang merupakan busana adat suku Dayak."
+        },
 
-		{
-			"Provinsi": "Kalimantan Timur ",
-			"Gambar": "",
-			"IbuKota": "Samarinda",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Kalimantan Timur ",
+            "Gambar": "",
+            "IbuKota": "Samarinda",
+            "PakaianAdat": "Ta'a dan Sapei Sapaq",
+            "Deskripsi": "Berada di Pulau Kalimantan bagian timur, Kalimantan Timur terkenal dengan kekayaan tambang dan keindahan alamnya. Ibu kotanya adalah Samarinda. Pakaian adat tradisional yang biasa dipakai adalah Ta'a dan Sapei Sapaq, yang merupakan pakaian adat suku Dayak."
+        },
 
-		{
-			"Provinsi": "Kalimantan Selatan ",
-			"Gambar": "",
-			"IbuKota": "Banjarbaru",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Kalimantan Selatan ",
+            "Gambar": "",
+            "IbuKota": "Banjarbaru",
+            "PakaianAdat": "Bagajah Gamuling Baular Lulut",
+            "Deskripsi": "Terletak di Pulau Kalimantan bagian selatan, Kalimantan Selatan memiliki budaya yang kaya dan unik. Ibu kotanya adalah Banjarbaru. Pakaian adat tradisional yang sering dipakai adalah Bagajah Gamuling Baular Lulut, yang merupakan busana adat suku Banjar."
+        },
 
-		{
-			"Provinsi": "Kalimantan Tengah ",
-			"Gambar": "",
-			"IbuKota": "Palangkaraya",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Kalimantan Tengah ",
+            "Gambar": "",
+            "IbuKota": "Palangkaraya",
+            "PakaianAdat": "Sangkarut",
+            "Deskripsi": "Berada di tengah-tengah Pulau Kalimantan, Kalimantan Tengah memiliki kekayaan alam dan budaya suku Dayak yang menarik. Ibu kotanya adalah Palangkaraya. Pakaian adat tradisional yang biasa dipakai adalah Sangkarut, yang merupakan pakaian adat suku Dayak Ngaju."
+        },
 
-		{
-			"Provinsi": "Kalimantan Utara ",
-			"Gambar": "",
-			"IbuKota": "Tanjung Selor",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Kalimantan Utara ",
+            "Gambar": "",
+            "IbuKota": "Tanjung Selor",
+            "PakaianAdat": "Ta'a dan Sapei Sapaq",
+            "Deskripsi": "Terletak di Pulau Kalimantan bagian utara, Kalimantan Utara adalah provinsi termuda di Indonesia. Ibu kotanya adalah Tanjung Selor. Pakaian adat tradisional yang sering dipakai adalah Ta'a dan Sapei Sapaq, mirip dengan pakaian adat suku Dayak di provinsi lainnya."
+        },
 
-		{
-			"Provinsi": "Banten ",
-			"Gambar": "",
-			"IbuKota": "Serang",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Banten ",
+            "Gambar": "",
+            "IbuKota": "Serang",
+            "PakaianAdat": "Pangsi",
+            "Deskripsi": "Berada di sebelah barat Provinsi DKI Jakarta, Banten memiliki sejarah dan budaya yang kaya. Ibu kotanya adalah Serang. Pakaian adat tradisional yang biasa dipakai adalah Pangsi, yang merupakan busana adat suku Banten."
+        },
 
-		{
-			"Provinsi": "DKI Jakarta ",
-			"gambar": "",
-			"IbuKota": "Jakarta",
-			"PakaianAdat": "",
-			"deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "DKI Jakarta ",
+            "gambar": "",
+            "IbuKota": "Jakarta",
+            "PakaianAdat": "Baju Demang dan Kebaya Encim",
+            "deskripsi": "Terletak di Pulau Jawa, DKI Jakarta adalah ibu kota negara Indonesia. Jakarta adalah pusat kegiatan politik, ekonomi, dan budaya. Pakaian adat tradisional yang sering dipakai adalah Baju Demang dan Kebaya Encim, yang merupakan busana adat Betawi."
+        },
 
-		{
-			"Provinsi": "Jawa Barat ",
-			"Gambar": "",
-			"IbuKota": "Bandung",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Jawa Barat ",
+            "Gambar": "",
+            "IbuKota": "Bandung",
+            "PakaianAdat": "Menak",
+            "Deskripsi": "Merupakan salah satu provinsi di Pulau Jawa, Jawa Barat memiliki budaya Sunda yang kaya dan beragam. Ibu kotanya adalah Bandung. Pakaian adat tradisional yang sering dipakai adalah Menak, yang merupakan busana adat Sunda yang megah dan anggun."
+        },
 
-		{
-			"Provinsi": "Jawa Tengah ",
-			"Gambar": "",
-			"IbuKota": "Semarang",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Jawa Tengah ",
+            "Gambar": "",
+            "IbuKota": "Semarang",
+            "PakaianAdat": "Jawi Jangkep dan Kebaya ",
+            "Deskripsi": "Berada di tengah Pulau Jawa, Jawa Tengah memiliki warisan budaya Jawa yang kaya. Ibu kotanya adalah Semarang. Pakaian adat tradisional yang sering dipakai adalah Jawi Jangkep dan Kebaya, yang merupakan busana adat Jawa Tengah yang elegan dan berkelas."
+        },
 
-		{
-			"Provinsi": "Daerah Istimewa Yogyakarta ",
-			"Gambar": "",
-			"IbuKota": "Yogyakarta",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Daerah Istimewa Yogyakarta ",
+            "Gambar": "",
+            "IbuKota": "Yogyakarta",
+            "PakaianAdat": "Surjan",
+            "Deskripsi": "Terletak di tengah Pulau Jawa, Yogyakarta adalah satu-satunya provinsi di Indonesia yang masih mempertahankan sistem monarki. Pakaian adat tradisional yang sering dipakai adalah Surjan, yang merupakan busana adat keraton Yogyakarta."
+        },
 
-		{
-			"Provinsi": "Jawa Timur ",
-			"Gambar": "",
-			"IbuKota": "Surabaya",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Jawa Timur ",
+            "Gambar": "",
+            "IbuKota": "Surabaya",
+            "PakaianAdat": "Kebaya Rancongan",
+            "Deskripsi": "Merupakan salah satu provinsi di Pulau Jawa, Jawa Timur memiliki kekayaan budaya dan sejarah yang menarik. Ibu kotanya adalah Surabaya. Pakaian adat tradisional yang biasa dipakai adalah Kebaya Rancongan, yang merupakan busana adat Jawa Timur yang anggun dan berwarna-warni."
+        },
 
-		{
-			"Provinsi": "Bali ",
-			"Gambar": "",
-			"IbuKota": "Denpasar",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Bali ",
+            "Gambar": "",
+            "IbuKota": "Denpasar",
+            "PakaianAdat": "Payas Alit atau Payas Nista",
+            "Deskripsi": "Terletak di Pulau Bali, provinsi ini terkenal dengan budaya dan tradisi Hindu yang kuat. Ibu kotanya adalah Denpasar. Pakaian adat tradisional yang sering dipakai adalah Payas Alit atau Payas Nista, yang merupakan busana adat Bali yang anggun dan indah."
+        },
 
-		{
-			"Provinsi": "Nusa Tenggara Timur ",
-			"Gambar": "",
-			"IbuKota": "Kupang",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Nusa Tenggara Timur ",
+            "Gambar": "",
+            "IbuKota": "Kupang",
+            "PakaianAdat": "Amarasi",
+            "Deskripsi": "Terletak di bagian timur Indonesia, Nusa Tenggara Timur memiliki keanekaragaman budaya dan tradisi. Ibu kotanya adalah Kupang. Pakaian adat tradisional yang sering dipakai adalah Amarasi, yang merupakan busana adat suku Timor."
+        },
 
-		{
-			"Provinsi": "Nusa Tenggara Barat ",
-			"Gambar": "",
-			"IbuKota": "Mataram",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Nusa Tenggara Barat ",
+            "Gambar": "",
+            "IbuKota": "Mataram",
+            "PakaianAdat": "Baju Lambung",
+            "Deskripsi": "Merupakan bagian dari Nusa Tenggara, provinsi ini terkenal dengan keindahan pantainya. Ibu kotanya adalah Mataram. Pakaian adat tradisional yang sering dipakai adalah Baju Lambung, yang merupakan busana adat suku Sasak."
+        },
 
-		{
-			"Provinsi": "Gorontalo ",
-			"Gambar": "",
-			"IbuKota": "Gorontalo",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Gorontalo ",
+            "Gambar": "",
+            "IbuKota": "Gorontalo",
+            "PakaianAdat": "Galenggo",
+            "Deskripsi": "Terletak di bagian utara Pulau Sulawesi, Gorontalo memiliki budaya yang unik dan beragam. Ibu kotanya adalah Gorontalo. Pakaian adat tradisional yang biasa dipakai adalah Galenggo, yang merupakan busana adat suku Gorontalo."
+        },
 
-		{
-			"Provinsi": "Sulawesi Barat ",
-			"Gambar": "",
-			"IbuKota": "Mamuju",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Sulawesi Barat ",
+            "Gambar": "",
+            "IbuKota": "Mamuju",
+            "PakaianAdat": "Pattuqduq Towaine",
+            "Deskripsi": "Merupakan provinsi di bagian barat Pulau Sulawesi, Sulawesi Barat memiliki kekayaan budaya yang menarik. Ibu kotanya adalah Mamuju. Pakaian adat tradisional yang sering dipakai adalah Pattuqduq Towaine, yang merupakan busana adat suku Mandar."
+        },
 
-		{
-			"Provinsi": "Sulawesi Tengah ",
-			"Gambar": "",
-			"IbuKota": "Palu",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Sulawesi Tengah ",
+            "Gambar": "",
+            "IbuKota": "Palu",
+            "PakaianAdat": "Nggembe",
+            "Deskripsi": "Berada di tengah Pulau Sulawesi, Sulawesi Tengah memiliki keindahan alam dan kekayaan budaya yang menarik. Ibu kotanya adalah Palu. Pakaian adat tradisional yang sering dipakai adalah Nggembe, yang merupakan busana adat suku Kaili."
+        },
 
-		{
-			"Provinsi": "Sulawesi Utara ",
-			"Gambar": "",
-			"IbuKota": "Manado",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Sulawesi Utara ",
+            "Gambar": "",
+            "IbuKota": "Manado",
+            "PakaianAdat": "Laku Tepu",
+            "Deskripsi": "Terletak di bagian utara Pulau Sulawesi, Sulawesi Utara memiliki budaya yang kaya dan beragam. Ibu kotanya adalah Manado. Pakaian adat tradisional yang sering dipakai adalah Laku Tepu, yang merupakan busana adat suku Minahasa."
+        },
 
-		{
-			"Provinsi": "Sulawesi Tenggara ",
-			"Gambar": "",
-			"IbuKota": "Kendari",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Sulawesi Tenggara ",
+            "Gambar": "",
+            "IbuKota": "Kendari",
+            "PakaianAdat": "Babu Nggawi",
+            "Deskripsi": "Terletak di bagian tenggara Pulau Sulawesi, Sulawesi Tenggara memiliki kekayaan alam dan keindahan laut yang luar biasa. Ibu kotanya adalah Kendari. Pakaian adat tradisional yang sering dipakai adalah Babu Nggawi, yang merupakan busana adat suku Tolaki."
+        },
 
-		{
-			"Provinsi": "Sulawesi Selatan ",
-			"Gambar": "",
-			"IbuKota": "Makassar",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Sulawesi Selatan ",
+            "Gambar": "",
+            "IbuKota": "Makassar",
+            "PakaianAdat": "Baju Bodo",
+            "Deskripsi": "Berada di bagian selatan Pulau Sulawesi, Sulawesi Selatan terkenal dengan kekayaan budaya dan tradisinya. Ibu kotanya adalah Makassar. Pakaian adat tradisional yang biasa dipakai adalah Baju Bodo, yang merupakan busana adat suku Bugis."
+        },
 
-		{
-			"Provinsi": "Maluku Utara ",
-			"Gambar": "",
-			"IbuKota": "Sofifi",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Maluku Utara ",
+            "Gambar": "",
+            "IbuKota": "Sofifi",
+            "PakaianAdat": "Manteren Lamo",
+            "Deskripsi": "Terletak di bagian utara Kepulauan Maluku, Maluku Utara memiliki keindahan alam dan kekayaan budaya yang menarik. Ibu kotanya adalah Sofifi. Pakaian adat tradisional yang sering dipakai adalah Manteren Lamo, yang merupakan busana adat suku Tobelo."
+        },
 
-		{
-			"Provinsi": "Maluku ",
-			"Gambar": "",
-			"IbuKota": "Ambon",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Maluku ",
+            "Gambar": "",
+            "IbuKota": "Ambon",
+            "PakaianAdat": "Baju Cele/Kain Salele",
+            "Deskripsi": " Berada di Kepulauan Maluku, provinsi ini terkenal dengan kekayaan budaya dan sejarahnya. Ibu kotanya adalah Ambon. Pakaian adat tradisional yang sering dipakai adalah Baju Cele/Kain Salele, yang merupakan busana adat suku Maluku."
+        },
 
-		{
-			"Provinsi": "Papua Barat ",
-			"Gambar": "",
-			"IbuKota": "Manokwari",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Papua Barat ",
+            "Gambar": "",
+            "IbuKota": "Manokwari",
+            "PakaianAdat": "Ewer",
+            "Deskripsi": "Terletak di sebelah barat Papua, Papua Barat memiliki keindahan alam yang luar biasa. Ibu kotanya adalah Manokwari. Pakaian adat tradisional yang sering dipakai adalah Ewer, yang merupakan busana adat suku Arfak."
+        },
 
-		{
-			"Provinsi": "Papua ",
-			"Gambar": "",
-			"IbuKota": "Jayapura",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Papua ",
+            "Gambar": "",
+            "IbuKota": "Jayapura",
+            "PakaianAdat": "Koteka",
+            "Deskripsi": "Merupakan provinsi terbesar di Indonesia, Papua terkenal dengan keindahan alamnya yang spektakuler. Ibu kotanya adalah Jayapura. Pakaian adat tradisional yang sering dipakai adalah Koteka, yang merupakan pakaian adat suku Asmat dan suku lainnya di Papua."
+        },
 
-		{
-			"Provinsi": "Papua Tengah ",
-			"Gambar": "",
-			"IbuKota": "Nabire",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Papua Tengah ",
+            "Gambar": "",
+            "IbuKota": "Nabire",
+            "PakaianAdat": "Koteka",
+            "Deskripsi": "Terletak di bagian tengah Papua, Papua Tengah memiliki kekayaan budaya yang unik. Ibu kotanya adalah Nabire. Pakaian adat tradisional yang sering dipakai adalah Koteka, mirip dengan pakaian adat suku di Papua lainnya."
+        },
 
-		{
-			"Provinsi": "Papua Pegunungan ",
-			"Gambar": "",
-			"IbuKota": "Jayawijaya",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Papua Pegunungan ",
+            "Gambar": "",
+            "IbuKota": "Jayawijaya",
+            "PakaianAdat": "Koteka",
+            "Deskripsi": "Berada di wilayah pegunungan Papua, provinsi ini memiliki keindahan alam yang menakjubkan. Ibu kotanya adalah Jayawijaya. Pakaian adat tradisional yang sering dipakai adalah Koteka, yang merupakan busana adat suku di daerah pegunungan Papua."
+        },
 
-		{
-			"Provinsi": "Papua Selatan ",
-			"Gambar": "",
-			"IbuKota": "Merauke",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		},
+        {
+            "Provinsi": "Papua Selatan ",
+            "Gambar": "",
+            "IbuKota": "Merauke",
+            "PakaianAdat": "Pummi",
+            "Deskripsi": "Terletak di bagian selatan Papua, Papua Selatan memiliki kekayaan budaya dan keindahan alam yang menarik. Ibu kotanya adalah Merauke. Pakaian adat tradisional yang sering dipakai adalah Pummi, yang merupakan busana adat suku Marind."
+        },
 
-		{
-			"Provinsi": "Papua Barat Daya ",
-			"Gambar": "",
-			"IbuKota": "Sorong",
-			"PakaianAdat": "",
-			"Deskripsi": "Deskripsi untuk Wilayah 38"
-		}
-	]
+        {
+            "Provinsi": "Papua Barat Daya ",
+            "Gambar": "",
+            "IbuKota": "Sorong",
+            "PakaianAdat": "Yokal",
+            "Deskripsi": "Merupakan salah satu provinsi di Papua, Papua Barat Daya memiliki keindahan alam dan keanekaragaman budaya yang menarik. Ibu kotanya adalah Sorong. Pakaian adat tradisional yang sering dipakai adalah Yokal, yang merupakan busana adat suku Maya."
+        }
+    ]
 }
