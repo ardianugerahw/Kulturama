@@ -1,0 +1,89 @@
+// .card-item {
+		// 	border: 1px solid black;
+		// 	border-radius: 8px;
+		// 	padding: 16px;
+
+		// 	flex-basis: 15%;
+
+		// 	transition: all 150ms ease-in;
+
+        //     background-color: #fff;
+        //     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        //     border-radius: 10px;
+        //     text-align: center;
+        // }
+        
+        
+        // .card-header {
+        //     display: flex;
+        //     justify-content: space-between;
+        //     align-items: center;
+        //     padding: 15px;
+        //     border-bottom: 1px solid #eee;
+        // }
+		
+        
+        // .card-city {
+        //     font-weight: bold;
+			
+        // }
+		// .card-city a{
+        //     text-decoration: none;
+		// 	color: #616161;
+		// 	align-content:center;
+			
+			
+        // }
+        
+        // .card-rating a{
+		// 	text-decoration: none;
+        //     color: #f9a825; 
+		// 	align-content:center;
+        // }
+        
+        // .card-body {
+        //     padding: 15px;
+        // }
+        // .card-body img {
+        //     width:100%;
+        // }
+
+        // .card-body h3 {
+        //     margin-top: 0;
+        //     margin-bottom: 10px;
+        //     font-size: 18px;
+			
+        // }
+		// .card-body h3 a  {
+            
+		// 	text-decoration: none;
+		// 	color: #616161;
+		// 	align-content:center;
+        // }
+        
+        // .card-body p {
+        //     line-height: 1.6;
+        // }
+		// div.card-body p a{
+		// 	color: #616161;
+		// 	text-decoration: none;
+		// }
+
+
+
+// <div class="card-item">
+				// 	<div class="card-header">
+				// 		<div class="card-city"><a tabindex="0" href="#">Kota ${this._kulturama.city}</a></div>
+				// 		<div class="card-rating"><a tabindex="0" href="#"> ${this._kulturama.rating}</a></div>
+				// 	</div>
+				// 	<div class="card-body">
+				// 		<img class="card-picture" src="${this._kulturama.pictureId}" alt="Gambar Kulturama">
+				// 		<h3>
+				// 			<a tabindex="0" href="#">${this._kulturama.name}</a>
+				// 		</h3>
+				// 		<p>
+				// 			<a tabindex="0" href="#">${this._kulturama.description}</a>
+				// 		</p>
+				// 	</div>
+				// </div>
+
