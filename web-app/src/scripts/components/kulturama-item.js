@@ -27,9 +27,7 @@ class KulturamaItem extends HTMLElement {
 	updateStyle() {
 		this._style.textContent = `
 		.item-card {
-			
 			width: 100%;
-			
 			margin: 10px;
 			border: 1px solid #ccc;
 			border-radius: 5px;
@@ -40,7 +38,6 @@ class KulturamaItem extends HTMLElement {
 			border: 1px solid #000000;
 			border-radius: 7px;
 			box-shadow: 0 5px 8px #000000;
-			background-color: green;
 		}
 
 		.item-card__image {
