@@ -13,7 +13,17 @@ class KulturamaList extends HTMLElement {
 		this.render();
 	}
 
-	updateStyle() {}
+	updateStyle() {
+		this._style.textContent = `
+		kulturama-list {
+			display: grid;
+			grid-gap: 20px;
+			grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+			justify-items: center;
+			width: 100%;
+			padding: 20px;
+		}`;
+	}
 
 	render() {
 		this.updateStyle();

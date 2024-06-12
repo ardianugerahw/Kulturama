@@ -20,6 +20,21 @@ body {
 	line-height: 1.5;
 }
 
+kulturama-item {
+	display: grid;
+	grid-gap: 20px;
+
+	justify-items: center;
+	width: 100%;
+	padding: 20px;
+	background-color: yellow;
+}
+
+kulturama-item {
+	width: 100%;
+	margin: 0;
+}
+
 .container {
 	display: flex;
 	justify-content: space-between;
@@ -164,12 +179,64 @@ nav.nav ul.nav__ul li.nav__li a:hover {
 }
 
 main {
-	height: 100vh;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+.kulturama-list-container {
+	padding-bottom: 2rem;
+}
+
+.item-card {
+	width: 300px;
+	margin: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	overflow: hidden;
+	display: grid;
+	grid-gap: 20px;
+	background-color: #f9f9f9;
+	border: 1px solid #000000;
+	border-radius: 7px;
+	box-shadow: 0 5px 8px #000000;
+}
+
+.item-card__image {
+	width: 100%;
+	height: 150px;
+	object-fit: cover;
+}
+
+.item-card__content {
+	padding: 15px;
+}
+
+.item-card__title {
+	color: #000000;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+.item-card__info,
+.item-card__description {
+	font-size: 14px;
+	margin-bottom: 10px;
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
 }
 
 footer {
+	display: flex;
 	color: #ffffff;
 	background-color: #015b74;
 	text-align: center;
-	padding: 1rem;
+	padding-block: 30px;
+	padding-inline: 30px;
+	margin-top: 2rem;
+	width: 100%;
+	flex-grow: 1;
+	justify-content: center;
 }
