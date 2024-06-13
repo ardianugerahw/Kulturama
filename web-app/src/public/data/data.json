@@ -129,10 +129,10 @@
 
         {
             "Provinsi": "DKI Jakarta ",
-            "gambar": "",
+            "Gambar": "",
             "IbuKota": "Jakarta",
             "PakaianAdat": "Baju Demang dan Kebaya Encim",
-            "deskripsi": "Terletak di Pulau Jawa, DKI Jakarta adalah ibu kota negara Indonesia. Jakarta adalah pusat kegiatan politik, ekonomi, dan budaya. Pakaian adat tradisional yang sering dipakai adalah Baju Demang dan Kebaya Encim, yang merupakan busana adat Betawi."
+            "Deskripsi": "Terletak di Pulau Jawa, DKI Jakarta adalah ibu kota negara Indonesia. Jakarta adalah pusat kegiatan politik, ekonomi, dan budaya. Pakaian adat tradisional yang sering dipakai adalah Baju Demang dan Kebaya Encim, yang merupakan busana adat Betawi."
         },
 
         {

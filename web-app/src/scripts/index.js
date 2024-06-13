@@ -5,6 +5,7 @@ import '../styles/responsive.css';
 import data from '../public/data/data.json';
 import './components/kulturama-list';
 import './components/kulturama-item';
+import './components/footerBar';
 
 const kulturamaList = document.querySelector('kulturama-list');
 kulturamaList.setKulturamaList(data.kulturamas);
