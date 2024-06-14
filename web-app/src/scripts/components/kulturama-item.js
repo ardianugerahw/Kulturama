@@ -1,31 +1,34 @@
 class KulturamaItem extends HTMLElement {
-	constructor() {
-		super();
+  constructor() {
+    super();
 
-		this._kulturama = {
-			Provinsi: '',
-			Gambar: '',
-			IbuKota: '',
-			PakaianAdat: '',
-			Deskripsi: '',
-		};
+    this._kulturama = {
+      Provinsi: '',
+      Gambar: '',
+      IbuKota: '',
+      PakaianAdat: '',
+      Deskripsi: '',
+    };
 
-		this._style = document.createElement('style');
-	}
-	setKulturama(value) {
-		this._kulturama['Provinsi'] = value.Provinsi;
-		this._kulturama['Gambar'] = value.Gambar;
-		this._kulturama['IbuKota'] = value.IbuKota;
-		this._kulturama['PakaianAdat'] = value.PakaianAdat;
-		this._kulturama['Deskripsi'] = value.Deskripsi;
+    this._style = document.createElement('style');
+  }
 
-		this.render();
-	}
-	connectedCallback() {
-		this.render();
-	}
-	updateStyle() {
-		this._style.textContent = `
+  setKulturama(value) {
+    this._kulturama.Provinsi = value.Provinsi;
+    this._kulturama.Gambar = value.Gambar;
+    this._kulturama.IbuKota = value.IbuKota;
+    this._kulturama.PakaianAdat = value.PakaianAdat;
+    this._kulturama.Deskripsi = value.Deskripsi;
+
+    this.render();
+  }
+
+  connectedCallback() {
+    this.render();
+  }
+
+  updateStyle() {
+    this._style.textContent = `
 		.item-card {
 			width: 100%;
 			margin: 10px;
@@ -67,12 +70,12 @@ class KulturamaItem extends HTMLElement {
 			-webkit-box-orient: vertical;
 		}
 				`;
-	}
+  }
 
-	render() {
-		this.updateStyle();
+  render() {
+    this.updateStyle();
 
-		this.innerHTML = `
+    this.innerHTML = `
         ${this._style.outerHTML}
                 <div class="item-card">
                 	<img src="${this._kulturama.Gambar}" alt="Gambar Provinsi" class="item-card__image">
@@ -87,6 +90,6 @@ class KulturamaItem extends HTMLElement {
 					</div>
                 </div>
 			`;
-	}
+  }
 }
 customElements.define('kulturama-item', KulturamaItem);
