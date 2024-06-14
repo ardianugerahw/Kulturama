@@ -58,7 +58,7 @@ kulturama-item {
 }
 
 .image-placeholder {
-	background-image: url('../public/image/gambar\ home.jpeg');
+	background-image: url('../public/images/gambar\ home.jpeg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -219,7 +219,7 @@ main {
 
 .item-card__image {
 	width: 100%;
-	height: 150px;
+	height: 230px;
 	object-fit: cover;
 }
 

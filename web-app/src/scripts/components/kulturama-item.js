@@ -40,12 +40,6 @@ class KulturamaItem extends HTMLElement {
 			box-shadow: 0 5px 8px #000000;
 		}
 
-		.item-card__image {
-			width: 100%;
-			height: 150px;
-			object-fit: cover;
-		}
-
 		.item-card__content {
 			padding: 15px;
 			width: 100%;
