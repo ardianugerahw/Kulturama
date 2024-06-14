@@ -7,5 +7,6 @@
 	"indentRainbow.colorOnWhiteSpaceOnly": false,
 	"liveServer.settings.port": 5501,
 	"prettier.singleQuote": true,
-	"livePreview.defaultPreviewPath": "/webClock_http-server/index.html"
+	"livePreview.defaultPreviewPath": "/webClock_http-server/index.html",
+	"prettier.enable": false
 }

@@ -16,16 +16,16 @@ const mainElement = document.querySelector('main');
 
 const header = document.querySelector('.header');
 
-menu.addEventListener('click', function (event) {
-	drawer.classList.toggle('open');
-	event.stopPropagation();
+menu.addEventListener('click', (event) => {
+  drawer.classList.toggle('open');
+  event.stopPropagation();
 });
 
-mainElement.addEventListener('click', function (event) {
-	drawer.classList.remove('open');
-	event.stopPropagation();
+mainElement.addEventListener('click', (event) => {
+  drawer.classList.remove('open');
+  event.stopPropagation();
 });
 
-header.addEventListener('click', function () {
-	drawer.classList.remove('open');
+header.addEventListener('click', () => {
+  drawer.classList.remove('open');
 });
