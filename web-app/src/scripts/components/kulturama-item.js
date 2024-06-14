@@ -30,13 +30,12 @@ class KulturamaItem extends HTMLElement {
 			width: 100%;
 			margin: 10px;
 			border: 1px solid #ccc;
-			border-radius: 5px;
 			overflow: hidden;
 			display: grid;
 			grid-gap: 20px;
 			background-color: #f9f9f9;
 			border: 1px solid #000000;
-			border-radius: 7px;
+			border-radius: 50px;
 			box-shadow: 0 5px 8px #000000;
 		}
 
