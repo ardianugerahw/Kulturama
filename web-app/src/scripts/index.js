@@ -31,17 +31,16 @@ kulturamaList.setKulturamaList(data.kulturamas);
 //   drawer.classList.remove('open');
 // });
 
-
 const app = new App({
-	button: document.querySelector('.header__hamburger'),
-	drawer: document.querySelector('.nav'),
-	content: document.querySelector('main'),
-  });
-   
-  window.addEventListener('hashchange', () => {
-	app.renderPage();
-  });
-   
-  window.addEventListener('load', () => {
-	app.renderPage();
-  });
+  button: document.querySelector('.header__hamburger'),
+  drawer: document.querySelector('.nav'),
+  content: document.querySelector('main'),
+});
+
+window.addEventListener('hashchange', () => {
+  app.renderPage();
+});
+
+window.addEventListener('load', () => {
+  app.renderPage();
+});
