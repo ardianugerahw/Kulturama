@@ -5,7 +5,7 @@ import '../styles/responsive.css';
 import data from '../public/data/data.json';
 import './components/kulturama-list';
 import './components/kulturama-item';
-import './components/footerBar';
+import './components/Whatsapp';
 import App from './views/app';
 
 const kulturamaList = document.querySelector('kulturama-list');
