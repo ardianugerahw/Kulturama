@@ -88,7 +88,7 @@ class KulturamaItem extends HTMLElement {
   
   div.modal div.modal-content {
     background-color: #fefefe;
-    margin: 15% auto; /* Posisikan modal di tengah layar */
+    margin: 10% auto; /* Posisikan modal di tengah layar */
     padding: 20px;
     border: 1px solid #888;
     width: 80%; /* Lebar modal */
