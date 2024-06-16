@@ -23,9 +23,7 @@ class KulturamaList extends HTMLElement {
 			justify-items: center;
 			width: 100%;
 			padding: 20px;
-			background-color: #fff;
-			border-top: 1px solid #000000;
-			border-bottom: 1px solid #000000;
+			background-color: #1c1f21;
 		}`;
   }
 

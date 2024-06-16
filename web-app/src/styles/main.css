@@ -37,8 +37,6 @@ kulturama-item {
 	font-weight: bold;
 	color: #ffffff;
 	padding: 10px;
-	border-top: 1px solid #000000;
-	border-bottom: 1px solid #000000;
 	text-align: center;
 	background-color: #000000;
 }
@@ -159,7 +157,6 @@ header.header a.header__hamburger {
 	cursor: pointer;
 	color: white;
 	align-content: center;
-
 	padding-inline: 10px;
 	padding-block: 10px;
 }
