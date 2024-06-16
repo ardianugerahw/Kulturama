@@ -17,6 +17,7 @@
         "no-underscore-dangle": 0,
         "no-restricted-globals": 0,
         "linebreak-style": 0,
-        "no-tabs": 0
+        "no-tabs": 0,
+        "import/no-cycle":0
     }
 }

@@ -1,0 +1,138 @@
+class KulturamaItem extends HTMLElement {
+  constructor() {
+    super();
+
+    this._kulturama = {
+      Provinsi: '',
+      Gambar: '',
+      IbuKota: '',
+      PakaianAdat: '',
+      Deskripsi: '',
+    };
+
+    this._style = document.createElement('style');
+  }
+
+  setKulturama(value) {
+    this._kulturama.Provinsi = value.Provinsi;
+    this._kulturama.Gambar = value.Gambar;
+    this._kulturama.IbuKota = value.IbuKota;
+    this._kulturama.PakaianAdat = value.PakaianAdat;
+    this._kulturama.Deskripsi = value.Deskripsi;
+
+    this.render();
+  }
+
+  connectedCallback() {
+    this.render();
+  }
+
+  updateStyle() {
+    this._style.textContent = `
+		div.item-card {
+			width: 100%;
+			margin: 10px;
+			border: 1px solid #ccc;
+			overflow: hidden;
+			display: grid;
+			grid-gap: 20px;
+			background-color: #f9f9f9;
+			border: 1px solid #000000;
+			border-radius: 50px;
+			box-shadow: 0 5px 8px #000000;
+		}
+
+		div.item-card div.item-card__content {
+			padding: 15px;
+			width: 100%;
+		}
+
+		div.item-card h3.item-card__title {
+			color: #000000;
+			display: inline-block;
+			min-width: 44x;
+			min-height: 44px;
+			font-size: 18px;
+			margin-bottom: 10px;
+		}
+
+		div.item-card p.item-card__info {
+			font-size: 14px;
+			margin-bottom: 10px;
+		}
+
+		div.item-card p.item-card__description {
+			font-size: 14px;
+			overflow: hidden;
+			display: -webkit-box;
+			-webkit-line-clamp: 3;
+			-webkit-box-orient: vertical;
+		}
+
+	div.modal {
+    display: none; /* Sembunyikan modal pada awalnya */
+    position: fixed; /* Tetap di tempat saat scrolling */
+    z-index: 1; /* Letakkan di atas elemen lain */
+    left: 0;
+    top: 0;
+    width: 100%; /* Lebar penuh */
+    height: 100%; /* Tinggi penuh */
+    overflow: auto; /* Tambahkan scrollbar jika konten modal melebihi ketinggian layar */
+    background-color: rgba(0, 0, 0, 0.4); /* Warna latar belakang semi-transparan */
+  }
+  
+  div.modal div.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* Posisikan modal di tengah layar */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Lebar modal */
+  }
+  
+  div.modal div.modal-content span#closeModal {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  div.modal div.modal-content span#closeModal:hover,
+ div.modal div.modal-content span#closeModal:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+				`;
+  }
+
+  render() {
+    this.updateStyle();
+
+    this.innerHTML = `
+        ${this._style.outerHTML}
+                <div class="item-card">
+                	<img src="${this._kulturama.Gambar}" alt="Gambar Provinsi" class="item-card__image">
+					<div class="item-card__content">
+						<h3 class="item-card__title">${this._kulturama.Provinsi}</h3>
+						<p class="item-card__info">
+						<span class="item-card__label">${this._kulturama.IbuKota}</span>
+						</p>
+						<p class="item-card__description">
+						${this._kulturama.Deskripsi}
+						</p>
+					</div>
+                </div>
+				<button id="btnModal">Buka Modal</button>
+				<div id="modal" class="modal">
+					<div class="modal-content">
+						<span id="closeModal">&times;</span>
+						<h2>Judul Modal</h2>
+						<p>${this._kulturama.PakaianAdat}</p>
+						<button id="btnTutup">Tutup Modal</button>
+					</div>
+				</div>
+			`;
+  }
+}
+customElements.define('kulturama-item', KulturamaItem);
