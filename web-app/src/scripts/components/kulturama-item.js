@@ -147,7 +147,17 @@ class KulturamaItem extends HTMLElement {
 		opacity: 1;
 	}
 }
-
+    
+#btnModal {
+	background: #ffffff;
+	display: inline-block;
+	text-decoration: none;
+	border: none;
+	padding: 10px 20px;
+	color: #000000;
+	margin-top: 30px;
+	border-radius: 50px;
+}
 
   
 				`;
@@ -170,7 +180,7 @@ class KulturamaItem extends HTMLElement {
             </p>
           </div>
         </div>
-        <button id="btnModal">Buka Modal</button>
+        <button id="btnModal">Detail</button>
         <div id="modal" class="modal">
           <div class="modal-content">
             <span id="closeModal">&times;</span>
@@ -182,7 +192,7 @@ class KulturamaItem extends HTMLElement {
                 ${this._kulturama.Deskripsi}
                 </p>
             </div>
-            <button id="btnTutup">Tutup Modal</button>
+            
           </div>
         </div>
       `;
