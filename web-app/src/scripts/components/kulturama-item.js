@@ -94,6 +94,11 @@ class KulturamaItem extends HTMLElement {
     width: 80%; /* Lebar modal */
     border-radius: 15px;
   }
+
+  div.modal div.modal-content h2, div.modal div.modal-content p {
+  margin-left: 30px;
+  }
+
   
   div.modal div.modal-content span#closeModal {
     color: #aaa;
@@ -110,18 +115,28 @@ class KulturamaItem extends HTMLElement {
 
  div.modal div.modal-content div.modal__item{
     display: grid;
-    //grid-template-columns: 250px 500px;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+		grid-gap: 20px;
+		grid-template-columns: repeat(2, 1fr);
     padding: 20px;
-    
+    margin-left: -35px;
  }
+
+ @media (max-width: 600px) {
+    div.modal div.modal-content div.modal__item {
+        grid-template-columns: 1fr; /* Single column on small screens */
+    }
+}
   
   div.modal img.modal__image {
-    
+  display: flex;  
+  align-item:center;
+  justify-content:center;
+  justify-self: center;
     width: 200px;
     height: auto;
     margin-bottom: 20px;
     border-radius: 5px; /* Lengkungan gambar */
+    margin-left: 25px;
   }
 
    div.modal div.modal-content p.modal__description {
@@ -157,6 +172,11 @@ class KulturamaItem extends HTMLElement {
 	color: #000000;
 	margin-top: 30px;
 	border-radius: 50px;
+  transition: ease-in 0.3s;
+}
+  #btnModal:hover {
+	background: #1c1f21;
+  color: #ffffff;
 }
 
   
