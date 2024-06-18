@@ -32,5 +32,4 @@ link
 
 ## 💻Website Preview
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![kulturama](https://github.com/ardianugerahw/Kulturama/assets/95567927/81e8c06e-3330-4fd5-8a2f-fd2174dd8744)
