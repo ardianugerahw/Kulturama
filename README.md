@@ -28,7 +28,7 @@ link
 
 ## ☁Deployed Link
 
-link
+- <a href="https://kulturama.netlify.app/" target="_parent">https://kulturama.netlify.app</a>
 
 ## 💻Website Preview
 
