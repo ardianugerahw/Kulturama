@@ -19,11 +19,11 @@ Globalisasi membawa budaya asing yang mudah diakses generasi muda sehingga dikha
 
 
 ## 📕User Guide
-link
+- <a href="https://docs.google.com/document/d/1F6IamecQyGqZhYK5gZDw1g3YOIpJv2EHWTafvqSlmGY/edit?usp=sharing" target="_parent">Tutorial</a>
 
 ## 📜Project Brief
 
-link
+- <a href="https://drive.google.com/file/d/19zFT_hTumezZaTbZjXhuTGGHdmsx3pXX/view?usp=sharing" target="_parent">Project_Brief</a>
 
 
 ## ☁Deployed Link
